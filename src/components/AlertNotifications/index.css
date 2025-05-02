@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.success {
+  color: green;
+}
+.error {
+  color: red;
+}
+
+.warning {
+  color: #ffb800;
+}
+
+.info {
+  color: #0f81e0;
+}
+
+.card-container {
+  display: flex;
+}
