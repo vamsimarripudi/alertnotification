@@ -47,7 +47,7 @@ const AlertNotification = () => {
 
   return (
     <div>
-      <h1>Alert Notification</h1>
+      <h1>Alert Notifications</h1>
       {successNotification()}
       {errorNotification()}
       {warningNotification()}
